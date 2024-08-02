@@ -1,12 +1,12 @@
-/* Cores */
+
 
 body {
-    background-color: #F5F5F5; /* Cor de fundo clara */
+    background-color: #F5F5F5; 
 }
 
 header {
-    background-color: #2196F3; /* Azul escuro */
-    color: #FFF; /* Branco */
+    background-color: #2196F3; 
+    color: #FFF; 
     text-align: center;
     padding: 20px 0;
 }
@@ -18,36 +18,36 @@ h1 {
 
 h2 {
     font-size: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 .hero {
-    background-image: url('hero-image.jpg'); /* Imagem do herói */
+    background-image: url('hero-image.jpg'); 
     background-size: cover;
     background-position: center;
     text-align: center;
-    padding: 80px 0;
-    color: #FFF;
+    padding: 20px 0;
+    color: #4CAF50;
 }
 
 .hero p {
-    font-size: 20px;
-    max-width: 600px;
+    font-size: 32px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
 .hero .btn {
-    background-color: #4CAF50; /* Verde */
-    color: #FFF;
-    padding: 10px 20px;
+    background-color: #4CAF50; 
+    color: #ffffff;
+    padding: 2px 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 100px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.1s ease;
 }
 
 .hero .btn:hover {
-    background-color: #45a049; /* Verde mais escuro */
+    background-color: #45a049; 
 }
 
 .areas {
@@ -58,20 +58,20 @@ h2 {
 }
 
 .area {
-    flex: 1 0 300px; /* Largura mínima de 300px */
-    margin: 10px;
+    flex: 1 0 100px; 
+    margin: 5px;
     text-align: center;
 }
 
 .area img {
-    width: 80px;
-    height: 80px;
+    width: 200px;
+    height: 150px;
     margin-bottom: 15px;
 }
 
 .area h3 {
-    font-size: 18px;
-    margin-bottom: 10px;
+    font-size: 30px;
+    margin-bottom: 30px;
 }
 
 .area ul {
@@ -84,9 +84,9 @@ h2 {
 }
 
 .chamada {
-    background-color: #2196F3; /* Azul escuro */
+    background-color: #2196F3; 
     color: #FFF;
-    padding: 40px 0;
+    padding: 20px 0;
     text-align: center;
 }
 
@@ -96,7 +96,7 @@ h2 {
 }
 
 .chamada .btn {
-    background-color: #4CAF50; /* Verde */
+    background-color: #4CAF50; 
     color: #FFF;
     padding: 12px 30px;
     border: none;
@@ -106,7 +106,7 @@ h2 {
 }
 
 .chamada .btn:hover {
-    background-color: #45a049; /* Verde mais escuro */
+    background-color: #45a049;
 }
 
 .redes-sociais {
@@ -125,17 +125,17 @@ h2 {
 }
 
 .redes-sociais a {
-    color: #2196F3; /* Azul escuro */
+    color: #2196F3; 
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .redes-sociais a:hover {
-    color: #000; /* Preto */
+    color: #4CAF50; 
 }
 
 footer {
-    background-color: #2196F3; /* Azul escuro */
+    background-color: #2196F3; 
     color: #FFF;
     text-align: center;
     padding: 10px 0;
