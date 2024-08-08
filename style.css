@@ -146,3 +146,30 @@ footer {
     text-align: center;
     color:#000000;
 }
+
+.btn2{
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    color: #111211;
+    background-color: #0e65c9;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn2:hover{
+    background-color: #062a97;
+}
+
+
+.btn3{
+    background-color: #0e65c9; 
+    color: #fff;
+    border-radius: 100px;
+    padding: 1px 5px;
+    font-size: 18px;
+}
+
+.btn3:hover{
+      color: #02ff0a;
+}
