@@ -1,5 +1,3 @@
-
-
 body {
     background-color: #F5F5F5; 
 }
@@ -172,4 +170,18 @@ footer {
 
 .btn3:hover{
       color: #02ff0a;
+}
+
+
+.ri-facebook-circle-line{
+    font-size: 1.7rem;
+}
+
+
+.ri-instagram-line{
+    font-size: 1.7rem;
+}
+
+.ri-twitter-line{
+    font-size: 1.7rem;
 }
